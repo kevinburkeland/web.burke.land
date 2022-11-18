@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: A website for Kevin Burkeland
 ---
-## this is a test
+## A place for me to play around with github pages
+
+stick around for more content... maybe
